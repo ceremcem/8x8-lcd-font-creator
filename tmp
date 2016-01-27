@@ -1,0 +1,1280 @@
+<widget class="QCheckBox" name="pixel_1_1">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_2">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_3">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_4">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_5">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_6">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_7">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_1_8">
+ <property name="geometry">
+  <rect>
+   <x>180</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_1">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_2">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_3">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_4">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_5">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_6">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_7">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_2_8">
+ <property name="geometry">
+  <rect>
+   <x>200</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_1">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_2">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_3">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_4">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_5">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_6">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_7">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_3_8">
+ <property name="geometry">
+  <rect>
+   <x>220</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_1">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_2">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_3">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_4">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_5">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_6">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_7">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_4_8">
+ <property name="geometry">
+  <rect>
+   <x>240</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_1">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_2">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_3">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_4">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_5">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_6">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_7">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_5_8">
+ <property name="geometry">
+  <rect>
+   <x>260</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_1">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_2">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_3">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_4">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_5">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_6">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_7">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_6_8">
+ <property name="geometry">
+  <rect>
+   <x>280</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_1">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_2">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_3">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_4">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_5">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_6">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_7">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_7_8">
+ <property name="geometry">
+  <rect>
+   <x>300</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_1">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>100</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_2">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>120</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_3">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>140</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_4">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>160</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_5">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>180</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_6">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>200</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_7">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>220</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="QCheckBox" name="pixel_8_8">
+ <property name="geometry">
+  <rect>
+   <x>320</x>
+   <y>240</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_1">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_2">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_3">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_4">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_5">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_6">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_7">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_1_8">
+ <property name="geometry">
+  <rect>
+   <x>340</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_1">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_2">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_3">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_4">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_5">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_6">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_7">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_2_8">
+ <property name="geometry">
+  <rect>
+   <x>360</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_1">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_2">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_3">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_4">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_5">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_6">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_7">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_3_8">
+ <property name="geometry">
+  <rect>
+   <x>380</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_1">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_2">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_3">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_4">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_5">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_6">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_7">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_4_8">
+ <property name="geometry">
+  <rect>
+   <x>400</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_1">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_2">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_3">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_4">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_5">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_6">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_7">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_5_8">
+ <property name="geometry">
+  <rect>
+   <x>420</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_1">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_2">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_3">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_4">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_5">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_6">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_7">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_6_8">
+ <property name="geometry">
+  <rect>
+   <x>440</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_1">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_2">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_3">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_4">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_5">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_6">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_7">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_7_8">
+ <property name="geometry">
+  <rect>
+   <x>460</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_1">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>260</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_2">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>280</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_3">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>300</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_4">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>320</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_5">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>340</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_6">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>360</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_7">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>380</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
+<widget class="KLed" name="led_8_8">
+ <property name="geometry">
+  <rect>
+   <x>480</x>
+   <y>400</y>
+   <width>16</width>
+   <height>16</height>
+  </rect>
+ </property>
+</widget>
