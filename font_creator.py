@@ -62,7 +62,7 @@ class MainWindow(Actor, Qt.QtGui.QMainWindow):
         import json
         char_map = json.dumps(font_data)
         char_name = self.ui.char_input.text()
-        self.ui.font_output.setPlainText("    \"%s\": %s," % (char_name, char_map))
+        self.ui.font_output.setPlainText("u\"%s\": %s," % (char_name, char_map))
 
 
 
